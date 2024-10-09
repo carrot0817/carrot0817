@@ -1,5 +1,1 @@
-- Olleh! I'm Dezhi Luo. I appear mostly with this (somewhat iconic) carrot avatar. 
-- I like to work on cognitive science related stuff.
-- If you are also into CogSci, might as well check out the CogSci Learners Hub repo. Use and contribute!
-- I design some sci-fi related Lego moc. I also like 2048.
-- Pronouns: he/him/they/them... any pronouns are okay.
+
